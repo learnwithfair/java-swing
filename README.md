@@ -6,7 +6,7 @@ Thanks for visiting my GitHub account!
 ## Compiling and Running Swing Programs
 This section explains how to compile and run a Swing application from the command line. For information on compiling and running a Swing application using NetBeans IDE, see Running Tutorial Examples in NetBeans IDE. The compilation instructions work for all Swing programs — applets, as well as applications. Here are the steps you need to follow:
 
-- Install the latest release of the Java SE platform, if you haven't already done so.(JDK)
+- Install the latest release of the Java SE platform, if you haven't already done so (JDK).
 - Setup Environment variable for JDk
 - Install IDE such as NetBeans, Eclipse
 - Create a program that uses Swing components.
