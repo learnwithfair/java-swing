@@ -8,7 +8,7 @@ This section explains how to compile and run a Swing application from the comman
 
 - Install the latest release of the Java SE platform, if you haven't already done so.(JDK)
 - Setup Environment variable for JDk
-- Install IDE such as Netbins, Eclipse
+- Install IDE such as NetBeans, Eclipse
 - Create a program that uses Swing components.
 - Compile the program.
 - Run the program.
