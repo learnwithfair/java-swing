@@ -4,7 +4,7 @@ Thanks for visiting my GitHub account!
 Swing in Java is a lightweight GUI toolkit that has a wide variety of widgets for building optimized window-based applications. It is a part of the JFC( Java Foundation Classes). It is built on top of the AWT API and entirely written in Java. It is platform-independent unlike AWT and has lightweight components. It is used for creating window-based applications. It includes components like button, scroll bar, text field etc.
 
 ### Swing Classes Hierarchy
-[Hierarchy](https://github.com/learnwithfair/java-swing/blob/main/images/swinghierarchy.jpg)
+![Hierarchy](https://github.com/learnwithfair/java-swing/blob/main/images/swinghierarchy.jpg)
 
 
 ## Source Code (Download)
