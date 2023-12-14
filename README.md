@@ -6,12 +6,30 @@ Thanks for visiting my GitHub account!
 ## Compiling and Running Swing Programs
 This section explains how to compile and run a Swing application from the command line. For information on compiling and running a Swing application using NetBeans IDE, see Running Tutorial Examples in NetBeans IDE. The compilation instructions work for all Swing programs — applets, as well as applications. Here are the steps you need to follow:
 
-- Install the latest release of the Java SE platform, if you haven't already done so.
+- Install the latest release of the Java SE platform, if you haven't already done so.(JDK)
 - Setup Environment variable for JDk
 - Install IDE such as Netbins, Eclipse
 - Create a program that uses Swing components.
 - Compile the program.
 - Run the program.
+```diff
+- Note: File name and class name must be the same.
+
+```
+
+## Environment variable Setup
+--- To set java path ---
+1. Right-click on "My computer" and click on properties
+2. Click on "Advanced system settings"
+3. Click on "Environment variables"
+4. Click on the new tab of a user variable
+5. Write the path in a variable name
+6. Copy the path of the bin folder ( ``` C:\Program Files\Java\jdk-21\bin ```)
+7. Paste the path of the bin folder in the variable value
+8. Click OK
+9. For Check, write the command in the CMD  ``` java -version ``` Or, ``` javac -version ```
+   
+[See More](https://stackoverflow.com/questions/1672281/how-to-set-the-environment-variables-for-java-in-windows)
 
 ## Required Software (Download)
 - JDK, Download-> https://www.oracle.com/java/technologies/downloads/#jdk21-windows
