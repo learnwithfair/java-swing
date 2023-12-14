@@ -33,7 +33,7 @@ This section explains how to compile and run a Swing application from the comman
 
 ## Required Software (Download)
 - JDK, Download-> https://www.oracle.com/java/technologies/downloads/#jdk21-windows
-- Netbins, Download-> https://netbeans.apache.org/front/main/download/nb122/nb122/
+- NetBeans, Download-> https://netbeans.apache.org/front/main/download/nb122/nb122/
 - Or, Eclipse, Download-> https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2023-12/R/eclipse-inst-jre-win64.exe
 
 ## For Advance, Connect Database (JDBC)
